@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT\\ergasies\\testmstest\\PizzaStore\\PizzaStore.csproj",
+      "projectUniqueName": "C:\\Users\\makala\\source\\repos\\vs-code-pizza\\PizzaStore.csproj",
       "projectName": "PizzaStore",
-      "projectPath": "D:\\IT\\ergasies\\testmstest\\PizzaStore\\PizzaStore.csproj",
+      "projectPath": "C:\\Users\\makala\\source\\repos\\vs-code-pizza\\PizzaStore.csproj",
       "packagesPath": "C:\\Users\\makala\\.nuget\\packages\\",
-      "outputPath": "D:\\IT\\ergasies\\testmstest\\PizzaStore\\obj\\",
+      "outputPath": "C:\\Users\\makala\\source\\repos\\vs-code-pizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\makala\\AppData\\Roaming\\NuGet\\NuGet.Config",
